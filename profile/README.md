@@ -18,4 +18,4 @@
 
 ### Work
 [Find our writeups here](https://github.com/Z3R0D4Y-Team/Writeups)  
-[Our Kali Linux Installation Guide](https://github.com/Z3R0D4Y-Team/Kali-Installation)  
+[Our Hackbox VM Installation Guide](https://github.com/Z3R0D4Y-Team/Hackbox-Installation)  
