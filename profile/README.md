@@ -12,9 +12,22 @@
 ```
 
 ### Links
-[LinkedIn](https://www.linkedin.com/company/z3r0d4y-team)  
-[CTFTime](https://ctftime.org/team/223161)  
-[Discord Server](https://discord.gg/ra2VpyYRcu)  
+
+<a href="https://www.linkedin.com/company/z3r0d4y-team">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+
+<br>
+
+<a href="https://discord.gg/ra2VpyYRcu">
+<img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
+</a>
+
+<br>
+
+<a href="https://img.shields.io/badge/CTFTime-E3000B.svg?style=for-the-badge">
+<img src="https://ctftime.org/team/223161">
+</a>
 
 ### Work
 [Find our writeups here](https://github.com/Z3R0D4Y-Team/Writeups)  
