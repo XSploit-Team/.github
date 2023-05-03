@@ -13,7 +13,7 @@
 
 ### Links
 
-<a href="https://www.linkedin.com/company/z3r0d4y-team" target="_blank">
+<a href="https://www.linkedin.com/company/z3r0d4y-team">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 
