@@ -25,8 +25,8 @@
 
 <br>
 
-<a href="https://img.shields.io/badge/CTFTime-E3000B.svg?style=for-the-badge">
-<img src="https://ctftime.org/team/223161">
+<a href="https://ctftime.org/team/223161">
+<img src="https://img.shields.io/badge/CTFTime-E3000B.svg?style=for-the-badge">
 </a>
 
 ### Work
