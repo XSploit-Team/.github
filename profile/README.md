@@ -1,5 +1,5 @@
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F223161%2F&query=%24.rating.2024.country_place&style=for-the-badge&label=Rang%20i%20Danmark&color=red)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F223161%2F&query=%24.rating.2024.rating_place&style=for-the-badge&label=Rang%20i%20Verden&color=red)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F223161%2F&query=%24.rating.2024.country_place&style=for-the-badge&label=Country%20Position&color=red)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fctftime.org%2Fapi%2Fv1%2Fteams%2F223161%2F&query=%24.rating.2024.rating_place&style=for-the-badge&label=Worldwide%20Position&color=red)
 
 ```console
 ┌──(xsploit㉿kali)-[~]
