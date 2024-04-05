@@ -12,6 +12,7 @@
             |_|                                                                 
 
  Website:   https://xsplo.it
+ CTFTime:   https://xsplo.it/ctftime
  Discord:   https://xsplo.it/discord
  GitHub:    https://xsplo.it/github
  LinkedIn:  https://xsplo.it/linkedin
