@@ -18,5 +18,4 @@
 ```
 
 ### Work
-[**Find our writeups here**](https://github.com/Z3R0D4Y-Team/Writeups)  
-[**Our Hackbox VM Installation Guide**](https://github.com/Z3R0D4Y-Team/Hackbox-Installation)  
+[**Find our writeups here**](https://xsplo.it/writeups)  
